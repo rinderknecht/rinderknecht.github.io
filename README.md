@@ -13,4 +13,6 @@ $$
 \bullet \\; \bullet \xrightarrow{\smash{\gamma}} \circ
 $$
 
+<div align="right">
 The rules $\alpha$, $\beta$ and $\gamma$ make up a simple string-rewriting system. Rules $\alpha$ and $\beta$ can be conceived as `A black bead absorbs the white bead next to it.' The goal of this game is to end up with as few beads as possible, so our example may lead to the following rewrites:
+</div>
