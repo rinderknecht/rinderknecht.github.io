@@ -1,5 +1,6 @@
 # rinderknecht.github.io
 
+<div style="text-align: justify; text-justify: inter-word;">
 Let us assume that we own a string of white and black beads, like
 
 $$\circ \bullet \bullet \bullet \circ \circ \bullet$$
@@ -13,6 +14,5 @@ $$
 \bullet \\; \bullet \xrightarrow{\smash{\gamma}} \circ
 $$
 
-<div align="right">
 The rules $\alpha$, $\beta$ and $\gamma$ make up a simple string-rewriting system. Rules $\alpha$ and $\beta$ can be conceived as `A black bead absorbs the white bead next to it.' The goal of this game is to end up with as few beads as possible, so our example may lead to the following rewrites:
 </div>
